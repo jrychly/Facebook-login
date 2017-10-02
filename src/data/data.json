@@ -1,0 +1,103 @@
+{
+    "skills": [
+        {
+            "class":"code",
+            "heading":"WEBOVÉ STRÁNKY",
+            "description":"Weby děláme, protože člověk nebo firma bez webovek neexistuje. Weby děláme responsivní, funkční a hlavně s mladým nádechem, protože technologie se stále mění a my s nimi."
+        },
+        {
+            "class":"paint-brush",
+            "heading":"GRAFIKU",
+            "description":"Od návrhu loga až po kompletní webové stránky. Vše s vámi nejdříve projednáme a až pak začneme pracovat. Kromě grafiky se také věnujeme úpravě fotografií a střihu videa."
+        },
+        {
+            "class":"mobile",
+            "heading":"APLIKACE",
+            "description":"Více jak 1/3 lidí přistupuje k internetu z mobilu, a proto je potřeba vyvíjet i mobilní aplikace. Pomůžeme vám i s následnou propagací aplikace nebo celého projektu."
+        }
+    ],
+
+    "projects": [
+        {
+            "link": "images/projekty/CentrumTrsnovka720.jpg",
+            "name": "Centrum Třešňovka",
+            "type": "Webová stránka",
+            "purpose": "Sportování je základem zdravého lidského života.",
+            "description": "Pro tento web byla použita WordPress šablona, která byla následně upravena. Preferujeme spíše tvorbu vlastních šablon, ale nebráníme se i úpravě a nasazení WordPressových šablon.",
+            "website" : "www.centrumtresnovka.cz"
+        },
+        {
+            "link": "images/projekty/DameMatematiku720.jpg",
+            "name": "Dáme matematiku",
+            "type": "Webová aplikace",
+            "purpose": "Chytrá aplikace na procvičování matematiky - hravě a jednoduše.",
+            "description": "Webová aplikace, která za pomocí jednoduchého prostředí procvičí matematiku. V aplikaci je možné si nastavit několik možností (sčítání, odčítání, násobení a dělení). Aplikace se umístila na třetím místě v soutěži Junior Internet 2016 a také byla ocěněna mnoha rodiči a kantory.",
+            "website" : "www.damematematiku.cz"
+        },
+        {
+            "link": "images/projekty/Dametrip720.jpg",
+            "name": "Dáme trip",
+            "type": "Webová aplikace",
+            "purpose": "Poznejte parťáka na cesty a zažijte netradiční zážitky.",
+            "description": "Věříme, že by se lidé měli stále poznávat. Ta nejlepší dobrodružství jsou ta, která strávíte s někým novým. Strachem z poznávání ostatních sami sebe okrádáte. Neokrádejte se. Responsivní stránka, na které byly použity nejnovější technologie.",
+            "website" : "www.dametrip.cz"
+        },
+        {
+            "link": "images/projekty/NemovitostiVizitka03.jpg",
+            "name": "Výkup nemovitostí",
+            "type": "Vizitky",
+            "purpose": "Grafické navržení vizitek pro společnost Nemovitost s Břemenem s.r.o., která se věnuje výkupu nemovitostní na doživotí.",
+            "website": ""
+        },
+        {
+            "link": "images/projekty/NemovitostiWEB720.jpg",
+            "name": "Výkup nemovitostí",
+            "type": "Webová stránka",
+            "purpose": "Získejte peníze a dožijte ve svém! Vykupujeme nemovitosti s věcným břemenem na dožití.",
+            "description": "Tento web byl vytvořen během léta 2017 a dbalo se převážně na jednoduchost a responsivitu. K webu jsme dodaly vizitky a i kompletní grafiku (návrh, logo, letáčky). Web je poháněn WordPressem a je plně editovatelný.",
+            "website" : "www.nemovitostsbremenem.cz"
+        },
+        {
+            "link": "images/projekty/Vizitky720.jpg",
+            "name": "Vlatsní vizitky",
+            "type": "Vizitky",
+            "purpose": "MurkaSoft chce dělat moderní weby, které nezaostají za dnešními technologiemi.",
+            "description": "Kromě externích zakázek se také věnujeme zakázkám interním. Vizitky jsou aktuálně používány členy našeho týmu.",
+            "website" : ""
+        }
+    ],
+
+    "facts": [
+        {"class":"code", "heading":"Webové aplikace", "animation": "slideLeft"},
+        {"class":"mobile", "heading":"Mobilní aplikace", "animation":"slideUp"},
+        {"class":"paint-brush", "heading":"Grafika a design", "animation":"slideRight"}
+    ],
+
+    "members": [
+        {"position": "CEO", "name": "Jakub Rychlý", "image": "images/people/jrychly.png", "social": ["twitter", "linkedin", "github"], "link": ["https://twitter.com/@Kubooo85", "https://www.linkedin.com/in/jakub-rychl%C3%BD-92b401134/", "http://github.com/jrychly/"]},
+        {"position": "CO-CEO", "name": "Kryštof Mitka", "image": "images/people/kmitka.png", "social": ["twitter", "facebook", "github"], "link": ["twitter", "facebook", "github"]},
+        {"position": "PROGRAMÁTOR", "name": "Vojtěch Plocica", "image": "images/people/vplocica.png", "social": ["twitter", "facebook", "github"], "link": ["twitter", "https://www.facebook.com/vojta.plocica", "https://github.com/ploca14"]},
+        {"position": "GRAFIK", "name": "Adam Liška", "image": "images/people/aliska.png", "social": ["twitter", "facebook", "github"], "link": ["twitter", "facebook", "github"]}
+    ],
+
+    "references": [
+        {
+            "dp":"http://www.placecage.com/401/400",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque voluptates ea, consequatur nulla vitae provident."
+        },
+        {
+            "dp":"http://www.placecage.com/402/400",
+            "text": " Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem vel adipisci, incidunt quibusdam error id consequatur quae minus. Voluptatibus, quisquam. "
+        },
+        {
+            "dp":"http://www.placecage.com/403/400",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis odio, quod aut nostrum blanditiis sit quisquam odit earum aliquam reprehenderit totam, provident qui aperiam itaque a. Natus dolore dolores blanditiis dolorem expedita. Voluptatum, voluptates, est. "
+        }
+    ],
+
+    "contacts": [
+        {"icon": "phone", "text": "+420 773 319 015"},
+        {"icon": "envelope", "text": "podpora@murkasoft.cz"},
+        {"icon": "map-pin", "text": "Smotlachova 582/2, Praha 4 - Kamýk, 142 00"}
+    ]
+}

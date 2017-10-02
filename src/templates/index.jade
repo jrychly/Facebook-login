@@ -1,0 +1,6 @@
+extends layouts/default
+
+block content
+	h1 FBLogin
+	.fb-login-button(data-max-rows='1', data-size='large', data-button-type='login_with', data-show-faces='false', data-auto-logout-link='true', data-use-continue-as='false', onlogin="fbLogin")
+	#info
